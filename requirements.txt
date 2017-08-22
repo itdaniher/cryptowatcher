@@ -1,0 +1,9 @@
+asyncio-redis
+cbor
+
+#eth
+web3
+#twitter
+peony-twitter[all]
+#reddit
+praw
